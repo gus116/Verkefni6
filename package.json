@@ -1,0 +1,19 @@
+{
+  "name": "verkefni6",
+  "version": "1.0.0",
+  "description": "bókabúðin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gus116/Verkefni6.git"
+  },
+  "author": "gus116",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gus116/Verkefni6/issues"
+  },
+  "homepage": "https://github.com/gus116/Verkefni6#readme"
+}
